@@ -1,6 +1,6 @@
 class Enemy
 {
-  public :
+  public:
   
   private:
     int xPos;
