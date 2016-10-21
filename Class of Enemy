@@ -5,7 +5,7 @@ class Enemy
   private:
     int xPos;
     int yPos;
-    int DOA;
+    bool DOA;
     
  };
 
