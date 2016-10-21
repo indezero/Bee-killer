@@ -1,0 +1,23 @@
+  class Bullet
+        {
+           public:
+              void setBullet(int x, int y); 
+                void printBullet();
+            private:
+               int xPos;
+               int yPos;
+        };
+ 
+        void Bullet::setBullet(int x, int y) 
+        {
+             xPos = x;
+             yPos = y;
+        }
+       int main(y = 0; y ++ )
+        {
+            Bullet M;       
+            M.setBullet(x,y); 
+            M.printBullet();     
+
+           return 0;
+        }
