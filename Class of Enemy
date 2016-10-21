@@ -1,11 +1,11 @@
 class Enemy
 {
   public:
-  
-  private:
     int xPos;
     int yPos;
     bool DOA;
+  private:
+    
     
  };
 
