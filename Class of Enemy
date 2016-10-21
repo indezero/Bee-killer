@@ -3,5 +3,9 @@ class Enemy
   public :
   
   private:
-  
+    int xPos;
+    int yPos;
+    int DOA;
+    
  };
+
